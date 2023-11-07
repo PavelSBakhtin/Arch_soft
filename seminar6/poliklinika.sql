@@ -362,4 +362,3 @@ ON UPDATE CASCADE
 GO
 ALTER TABLE [Discharge_journal] CHECK CONSTRAINT [Discharge_journal_fk3]
 GO
-
